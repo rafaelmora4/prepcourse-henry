@@ -1,2 +1,1 @@
-# prepcourse-henry
-reprositorio del modulo 2
+este proceso es como crear un repositorio desde github
